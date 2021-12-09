@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fcarloskcheung%2Fblender.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fcarloskcheung%2Fblender?ref=badge_shield)
+
 
 .. Keep this document short & concise,
    linking to external resources instead of including content in-line.
@@ -39,3 +41,7 @@ Blender as a whole is licensed under the GNU General Public License, Version 3.
 Individual files may have a different, but compatible license.
 
 See `blender.org/about/license <https://www.blender.org/about/license>`__ for details.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fcarloskcheung%2Fblender.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fcarloskcheung%2Fblender?ref=badge_large)
